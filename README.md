@@ -2,7 +2,7 @@
 Best Discord Nuker!
 
 
-**This is a simple amazkng discord nuke bot**
+**This is a simple amazing discord nuke bot**
 
 
 *All you need to do it, download the exe,
